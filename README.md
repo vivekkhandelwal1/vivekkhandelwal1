@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkhandelwal&hide=html)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekkhandelwal1)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekkhandelwal1)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vivekkhandelwal1&left_color=green&right_color=red)
